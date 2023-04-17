@@ -1,16 +1,15 @@
 # Semantic Song Search Embeddings
 
-## Papers / Primary Resources
-A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.03762)”, (2017).
-
-## HuggingFace Space
-https://huggingface.co/spaces/sheacon/semantic-song-search
-
 ## Talk Outline
-- Review Purpose and Architecture of Transformer Models
-- Assess Results
-- Compare with RNNs and CNNs
-- Counterpoint Business Case / Costs
+- Blah blah
+
+## Papers / Primary Resources
+- OpenAI Endpoint
+- Sentence Transformers
+- GloVe
+
+## Play!
+[HuggingFace Space: Semantic Song Search](https://huggingface.co/spaces/sheacon/semantic-song-search)
 
 ## Embedding Models
 
@@ -32,10 +31,12 @@ Pre-computed embeddings
 (## Optional Question: )
 
 ## Results
-
-## Cost Comparison
+- A few example queries
 
 ## Critical Analysis
+- Embedding dimensions
+- Compute on embeddings and downstream application
+- Cost comparison
 
 ## Additional Resources
 - [GloVe](https://nlp.stanford.edu/projects/glove/)
