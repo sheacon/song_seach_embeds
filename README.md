@@ -4,6 +4,8 @@
 - Blah blah
 
 ## Papers / Primary Resources
+- [5 Million Song Dataset](https://www.kaggle.com/datasets/nikhilnayak123/5-million-song-lyrics-dataset)
+  - Derived from Genius.com
 - OpenAI Endpoint
 - Sentence Transformers
 - GloVe
