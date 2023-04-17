@@ -1,7 +1,10 @@
 # Semantic Song Search Embeddings
 
-## Paper
+## Papers / Primary Resources
 A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.03762)”, (2017).
+
+## HuggingFace Space
+https://huggingface.co/spaces/sheacon/semantic-song-search
 
 ## Talk Outline
 - Review Purpose and Architecture of Transformer Models
@@ -34,7 +37,7 @@ Pre-computed embeddings
 
 ## Critical Analysis
 
-## Resource Links
+## Additional Resources
 - [GloVe](https://nlp.stanford.edu/projects/glove/)
 - Sentence Transformer Model Cards
   - [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
