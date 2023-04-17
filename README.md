@@ -16,8 +16,9 @@
 - Sentence Transformers
 - GloVe
 
-## Play!
-[HuggingFace Space: Semantic Song Search](https://huggingface.co/spaces/sheacon/semantic-song-search)
+## HuggingFace
+- [Space: Semantic Song Search](https://huggingface.co/spaces/sheacon/semantic-song-search)
+- [Dataset: Song Lyrics](https://huggingface.co/datasets/sheacon/song_lyrics)
 
 ## Embedding Models
 
