@@ -54,6 +54,7 @@ https://medium.com/@nils_reimers/openai-gpt-3-text-embeddings-really-a-new-state
 - Sentence Transformer Model Cards
   - [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
   - [all-distilroberta-v1](https://huggingface.co/sentence-transformers/all-distilroberta-v1)
+- [Profanity](https://github.com/surge-ai/profanity) 
 
 - [How to Build a Semantic Search | Towards Data Science](https://towardsdatascience.com/how-to-build-a-semantic-search-engine-with-transformers-and-faiss-dcbea307a0e8)
 - [Machine Learning with PyTorch and Scikit-Learn](https://learning.oreilly.com/library/view/machine-learning-with/9781801819312/)
