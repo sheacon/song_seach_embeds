@@ -34,6 +34,7 @@ Pre-computed embeddings
 - A few example queries
 
 ## Critical Analysis
+https://medium.com/@nils_reimers/openai-gpt-3-text-embeddings-really-a-new-state-of-the-art-in-dense-text-embeddings-6571fe3ec9d9
 - Embedding dimensions
 - Compute on embeddings and downstream application
 - Cost comparison
