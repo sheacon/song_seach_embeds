@@ -21,7 +21,7 @@
 - [glove.840B.300d](https://nlp.stanford.edu/projects/glove/) (no limit / 300)
 
 ![roberta_stats](https://user-images.githubusercontent.com/89158603/232815347-e4b4e64a-131b-4d36-b0bb-1b00096632af.png)
-![minilm_stats](https://user-images.githubusercontent.com/89158603/232814971-98fb8fcd-29b0-4a86-bc75-a2692ad1cd07.png)
+![minilm_stats2](https://user-images.githubusercontent.com/89158603/232815688-cd2438bc-9486-4419-aa7e-6fd9b33db1ba.png)
 
 
 
