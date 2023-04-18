@@ -38,21 +38,15 @@ https://medium.com/@nils_reimers/openai-gpt-3-text-embeddings-really-a-new-state
 
 ## Additional Resources
 - [Previous Semantic Song Search Project](https://github.com/santarabantoosoo/semantic_song_search)
-
 - [GloVe](https://nlp.stanford.edu/projects/glove/)
 - Sentence Transformer Model Cards
   - [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
   - [all-distilroberta-v1](https://huggingface.co/sentence-transformers/all-distilroberta-v1)
 - [Profanity](https://github.com/surge-ai/profanity) 
-
 - [OpenAI Embedding Paper](https://cdn.openai.com/papers/Text_and_Code_Embeddings_by_Contrastive_Pre_Training.pdf)
 - [OpenAI Embedding Guide](https://platform.openai.com/docs/guides/embeddings)
-
 - [How to Build a Semantic Search | Towards Data Science](https://towardsdatascience.com/how-to-build-a-semantic-search-engine-with-transformers-and-faiss-dcbea307a0e8)
-- [Machine Learning with PyTorch and Scikit-Learn](https://learning.oreilly.com/library/view/machine-learning-with/9781801819312/)
-- [Natural Language Processing with Transformers](https://learning.oreilly.com/library/view/natural-language-processing/9781098136789/)
 - [Sentence-BERT](https://arxiv.org/abs/1908.10084)
 - [SentenceTransformers](https://www.sbert.net/index.html)
-- [all-MiniLM-L12-v2 Model](https://huggingface.co/sentence-transformers/all-MiniLM-L12-v2)
 - [NLP for Semantic Search](https://www.pinecone.io/learn/fine-tune-sentence-transformers-mnr/)
 
