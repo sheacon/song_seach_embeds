@@ -10,7 +10,7 @@
 ## Solution / Deliverables / Demo
 - Compute lyrics embeddings with a variety of models
 - Find the similarity of the song by comparing to the user query embedding
-- GitHub repo, HuggingFace Space, HuggingFace Dataset
+- [GitHub repo](https://github.com/sheacon/song_search_embeds), [HuggingFace Space](https://huggingface.co/spaces/sheacon/semantic-song-search), [HuggingFace Dataset](https://huggingface.co/datasets/sheacon/song_lyrics)
 
 ## Embedding Models
 - Sentence Transformers
@@ -19,46 +19,16 @@
 - OpenAI: [text-embedding-ada-002](https://platform.openai.com/docs/guides/embeddings/embedding-models) (8191 / 1536)
 - [GloVe](https://nlp.stanford.edu/projects/glove/) (no limit / 300)
 
-## Talk Outline
-- Demo
-- Technicals
-- Comparisons
-- Pro/cons
+## Performance Evaluation
+- Inherently subjective, examples
+- Compute time and cost
+  - 1500 song test: 1s, glove, 3s for minilm, 6s for roberta, gpt 10min
 
-## Papers / Primary Resources
+## Dataset
 - [5 Million Song Dataset](https://www.kaggle.com/datasets/nikhilnayak123/5-million-song-lyrics-dataset)
   - Derived from Genius.com
-- OpenAI Endpoint
-- Sentence Transformers
-- GloVe
-
-## HuggingFace
-- [Space: Semantic Song Search](https://huggingface.co/spaces/sheacon/semantic-song-search)
-- [Dataset: Song Lyrics](https://huggingface.co/datasets/sheacon/song_lyrics)
-
-## Embedding Models
-
-### Sentence Transformers
-BERT
-
-### GloVe
-Pre-computed embeddings
-
-### OpenAI GPT-3 Endpoint
-- Took nearly 10 minutes for only 1 percent of my dataset (1,300 songs)!
-  - This was the set after >1k views, removing non-roman characters, and removing profanity
-  - 3s for minilm, 6s for roberta
-
-## Architectures
-
-## Question 1: 
-
-## Question 2: 
-
-(## Optional Question: )
-
-## Results
-- A few example queries
+- Subset to good music
+- Remove profanity
 
 ## Critical Analysis
 https://medium.com/@nils_reimers/openai-gpt-3-text-embeddings-really-a-new-state-of-the-art-in-dense-text-embeddings-6571fe3ec9d9
