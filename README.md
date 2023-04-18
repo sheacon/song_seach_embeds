@@ -29,7 +29,9 @@ BERT
 Pre-computed embeddings
 
 ### OpenAI GPT-3 Endpoint
-?
+- Took nearly 10 minutes for only 1 percent of my dataset (1,300 songs)!
+  - This was the set after >1k views, removing non-roman characters, and removing profanity
+  - 3s for minilm, 6s for roberta
 
 ## Architectures
 
