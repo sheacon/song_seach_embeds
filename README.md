@@ -10,7 +10,7 @@
 ## Solution / Demo and Deliverables
 - Compute lyrics embeddings with a variety of models
 - Find the similarity of the song by comparing to the user query embedding
-- Demo: [GitHub repo](https://github.com/sheacon/song_search_embeds), [HuggingFace Space](https://huggingface.co/spaces/sheacon/semantic-song-search), [HuggingFace Dataset](https://huggingface.co/datasets/sheacon/song_lyrics)
+- Demo: [GitHub repo](https://github.com/sheacon/song_search_embeds), [HuggingFace Dataset](https://huggingface.co/datasets/sheacon/song_lyrics), [HuggingFace Space](https://huggingface.co/spaces/sheacon/semantic-song-search)
 - Question: example queries
 
 ## Embedding Models
