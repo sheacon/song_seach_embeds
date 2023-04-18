@@ -42,7 +42,7 @@
 - Remove profanity
 
 ## Critical Analysis
-- No analytical or review data (scrape from Genius.com and YouTube)
+- No analytical or review data (scrape from Genius.com and YouTube). Could add to lyrics.
 - Cost: $50 Colab Pro+, OpenAI API $1.70
 
 ## Additional Resources
