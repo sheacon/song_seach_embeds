@@ -20,10 +20,13 @@
 - OpenAI: [text-embedding-ada-002](https://platform.openai.com/docs/guides/embeddings/embedding-models) (8191 / 1536)
 - [glove.840B.300d](https://nlp.stanford.edu/projects/glove/) (no limit / 300)
 
+![Screenshot 2023-04-18 at 9 52 14 AM](https://user-images.githubusercontent.com/89158603/232816181-f3b3c07c-6d14-4b56-a7d2-8ec4573807a6.png)
+
 ![roberta_stats](https://user-images.githubusercontent.com/89158603/232815347-e4b4e64a-131b-4d36-b0bb-1b00096632af.png)
 ![minilm_stats2](https://user-images.githubusercontent.com/89158603/232815688-cd2438bc-9486-4419-aa7e-6fd9b33db1ba.png)
 
-![Screenshot 2023-04-18 at 9 52 14 AM](https://user-images.githubusercontent.com/89158603/232816181-f3b3c07c-6d14-4b56-a7d2-8ec4573807a6.png)
+![gpt](https://user-images.githubusercontent.com/89158603/232816549-d9e8dac5-567b-4b70-a13a-47e5f44e7c43.png)
+
 
 
 
