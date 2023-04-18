@@ -18,7 +18,7 @@
   - [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) (256 / 384)
   - [all-distilroberta-v1](https://huggingface.co/sentence-transformers/all-distilroberta-v1) (512 / 768)
 - OpenAI: [text-embedding-ada-002](https://platform.openai.com/docs/guides/embeddings/embedding-models) (8191 / 1536)
-- [GloVe](https://nlp.stanford.edu/projects/glove/) (no limit / 300)
+- [glove.840B.300d](https://nlp.stanford.edu/projects/glove/) (no limit / 300)
 
 ## Performance Evaluation
 - Inherently subjective, examples
