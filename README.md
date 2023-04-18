@@ -23,7 +23,7 @@
 ## Performance Evaluation
 - Inherently subjective, examples
 - Compute time and cost
-  - 1500 song test: 1s, glove, 3s for minilm, 6s for roberta, gpt 10min
+  - 1500 song test: GloVe 1s, MiniLM 3s, RoBERTa 6s, OpenAI 10min
 
 ## Dataset
 - [5 Million Song Dataset](https://www.kaggle.com/datasets/nikhilnayak123/5-million-song-lyrics-dataset)
@@ -32,10 +32,8 @@
 - Remove profanity
 
 ## Critical Analysis
-https://medium.com/@nils_reimers/openai-gpt-3-text-embeddings-really-a-new-state-of-the-art-in-dense-text-embeddings-6571fe3ec9d9
-- Embedding dimensions
-- Compute on embeddings and downstream application
-- Cost comparison
+- No analytical or review data (scrape from Genius.com and YouTube)
+- Cost: $50 Colab Pro+, OpenAI API $1.70
 
 ## Additional Resources
 - [Previous Semantic Song Search Project](https://github.com/santarabantoosoo/semantic_song_search)
