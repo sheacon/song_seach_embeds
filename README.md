@@ -59,6 +59,9 @@ https://medium.com/@nils_reimers/openai-gpt-3-text-embeddings-really-a-new-state
   - [all-distilroberta-v1](https://huggingface.co/sentence-transformers/all-distilroberta-v1)
 - [Profanity](https://github.com/surge-ai/profanity) 
 
+- [OpenAI Embedding Paper](https://cdn.openai.com/papers/Text_and_Code_Embeddings_by_Contrastive_Pre_Training.pdf)
+- [OpenAI Embedding Guide](https://platform.openai.com/docs/guides/embeddings)
+
 - [How to Build a Semantic Search | Towards Data Science](https://towardsdatascience.com/how-to-build-a-semantic-search-engine-with-transformers-and-faiss-dcbea307a0e8)
 - [Machine Learning with PyTorch and Scikit-Learn](https://learning.oreilly.com/library/view/machine-learning-with/9781801819312/)
 - [Natural Language Processing with Transformers](https://learning.oreilly.com/library/view/natural-language-processing/9781098136789/)
