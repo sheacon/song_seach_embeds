@@ -20,6 +20,12 @@
 - OpenAI: [text-embedding-ada-002](https://platform.openai.com/docs/guides/embeddings/embedding-models) (8191 / 1536)
 - [glove.840B.300d](https://nlp.stanford.edu/projects/glove/) (no limit / 300)
 
+![minilm_stats](https://user-images.githubusercontent.com/89158603/232814971-98fb8fcd-29b0-4a86-bc75-a2692ad1cd07.png)
+
+![roberta_stats](https://user-images.githubusercontent.com/89158603/232815015-27dda74e-63f8-4ac3-a8d2-16e3cd2c1400.png)
+
+
+
 ## Performance Evaluation
 - Inherently subjective, examples
 - Compute time and cost
