@@ -1,7 +1,23 @@
 # Semantic Song Search Embeddings
-- We allow the user to search for songs based on the inherent meaning in the song's lyrics. This approach goes beyond basic keyword matching to extract semantics independent of specific wording, connecting songs by topics described by the user in arbitrary detail.
-- We apply a pre-trained sentence transformer model on an extensive lyrics dataset to create embeddings for each song. These vector representations of natural language are compared in order to find songs similar in meaning to a user-supplied query.
+- Search for songs based on the meaning in the song's lyrics with cosine similarity of embedding vectors
 
+## Question: What is the value in music? Why do you listen to music?
+
+## Motivation
+- Songs are enjoyable when they express feelings or situations that have meaning for the listener
+- How can we allow listeners to find songs by semantics?
+
+## Solution / Deliverables / Demo
+- Compute lyrics embeddings with a variety of models
+- Find the similarity of the song by comparing to the user query embedding
+- GitHub repo, HuggingFace Space, HuggingFace Dataset
+
+## Embedding Models
+- Sentence Transformers
+  - all-MiniLM-L6-v2 (256 / 384)
+  - all-distilroberta-v1 (512 / 768)
+- OpenAI: text-embedding-ada-002 (8191 / 1536)
+- GloVe (\infty / 300)
 
 ## Talk Outline
 - Demo
