@@ -7,10 +7,10 @@
 - Songs are enjoyable when they express feelings or situations that have meaning for the listener
 - How can we allow listeners to find songs by semantics?
 
-## Solution / Deliverables / Demo
+## Solution / Demo and Deliverables
 - Compute lyrics embeddings with a variety of models
 - Find the similarity of the song by comparing to the user query embedding
-- [GitHub repo](https://github.com/sheacon/song_search_embeds), [HuggingFace Space](https://huggingface.co/spaces/sheacon/semantic-song-search), [HuggingFace Dataset](https://huggingface.co/datasets/sheacon/song_lyrics)
+- Demo: [GitHub repo](https://github.com/sheacon/song_search_embeds), [HuggingFace Space](https://huggingface.co/spaces/sheacon/semantic-song-search), [HuggingFace Dataset](https://huggingface.co/datasets/sheacon/song_lyrics)
 - Question: example queries
 
 ## Embedding Models
