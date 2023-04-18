@@ -17,7 +17,7 @@
   - all-MiniLM-L6-v2 (256 / 384)
   - all-distilroberta-v1 (512 / 768)
 - OpenAI: text-embedding-ada-002 (8191 / 1536)
-- GloVe (\infty / 300)
+- GloVe (no limit / 300)
 
 ## Talk Outline
 - Demo
